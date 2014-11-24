@@ -112,3 +112,70 @@ subtly biased.
 - The white nationalist site on Martin Luther King, Jr.:
 http://www.martinlutherking.org
 - Website Evaluation Rubric
+-
+
+### Materials
+---
+####Sample Scavenger Hunt
+In your group, use the internet to find the following items. For each item include the steps you took to find each item.
+
+1. A picture of the mayor of your town or city
+1. A bus schedule
+1. The address of the Chamber of Commerce for your town or city
+1. A map of your state—and you have to point out where your town or city is!
+1. A copy of the front page of your town’s or city’s web site
+1. Something in writing that tells how many people live in the city
+1. A picture of any historical landmark in the city
+1. A picture of your congressman
+1. A program or flyer from a local arts event
+1. The names of all the city council members
+1. Something that gives information about your local hospital
+1. A list of schools in your town or city
+1. The phone number of the local police department
+1. Anything with the colors or mascot of a local college or community college
+1. A picture of the state flag
+1. A picture of the state bird
+1. A schedule of activities or a pamphlet from a local nursing home or senior citizens center
+1. A sticker or button from a local election
+1. A list of safety tips from the local fire department
+1. A speech by your governor
+
+---
+####Sample Website Evaluation Rubric
+
+#####Authority
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Is the author identified?
+
+Does the author have appropriate qualifications with respect to the information being presented?
+#####Purpose
+Is the purpose to inform or give factual information?
+#####Coverage
+Is the information primary or secondary in nature?
+
+Is the information presented comparable to information on the same topic presented by other sites?
+
+#####Accuracy
+Is the information free of factual errors?
+
+Do the conclusions appear to be well-reasoned and supported by the facts presented?
+
+Is the information properly referenced?
+#####Objectivity
+Is the information free from obvious bias?
+
+Does the author avoid the use of emotional or inflammatory language?
+
+Does the author avoid trying to sell something or persuade the reader of a particular viewpoint?
+#####Currency
+Is the information up-to-date?
+
+Are there creation and revision dates?
+
+#####Appearance
+Does the site have a professional appearance?
+
+Does it use proper grammar, spelling, and composition?
+
+Exploring Computer Science—Unit 1: Human Computer Interaction
+
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
