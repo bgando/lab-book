@@ -8,7 +8,7 @@
    * [Inspiration](curriculum_resources.md)
 * [Instructional Philosophy](instructional_philosophy/README.md)
 * [Overview of Instructional Materials](overview_of_instructional_materials/README.md)
-* [Topic Descriptions and Objectives](monthly_overview/README.md)
+* [Unit Overview](monthly_overview/README.md)
    * [Unit 1: Discovery](monthly_overview/unit_1_discovery.md)
    * [Unit 2: HTML/CSS](monthly_overview/unit_2_htmlcss.md)
    * [Unit 3: JavaScript](monthly_overview/unit_3_javascript.md)
@@ -25,4 +25,6 @@
    * [Week 2](week_1/week_2.md)
    * [Week 3](week_1/week_3.md)
    * [Week 4](week_1/week_4.md)
+* [Extra Modules](extra_modules/README.md)
+   * [Privacy and Communication](extra_modules/privacy_and_communication.md)
 

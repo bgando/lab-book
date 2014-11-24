@@ -22,7 +22,7 @@ The student will be able to:
 - Groups brainstorm app ideas.
 - Present ideas to a small group.
 
-###Teaching/Learning Strategies:
+###Teaching/Learning Strategies
 **Lecture:** Who are software engineers? What do they do? Who do they help? What is a typical day in the life of a SWE?
 
 **Lecture:** What is an app? What problems are solved with technology/apps? What are some things in your life or someone you know that is annoying/inconvenient? What are some solutions to issues that could be improved even more?
