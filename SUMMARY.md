@@ -3,7 +3,7 @@
 * [Course Overview](README.md)
    * [Goals](goals)
    * [Prerequisites](prerequisites.md)
-   * [Hardware/Software](hardwaresoftware)
+   * [Hardware/Software](hardwaresoftware.md)
    * [Themes](themes.md)
    * [Inspiration](curriculum_resources.md)
 * [Instructional Philosophy](instructional_philosophy/README.md)
@@ -22,4 +22,7 @@
        * [Modules 5-7](week_1/day_3.md)
        * [Modules 8](week_1/day_4.md)
        * [Module 9-10](week_1/day_5.md)
+   * [Week 2](week_1/week_2.md)
+   * [Week 3](week_1/week_3.md)
+   * [Week 4](week_1/week_4.md)
 
