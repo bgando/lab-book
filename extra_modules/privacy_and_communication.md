@@ -121,5 +121,5 @@ impression of who you are?
     - Globalization
     - Connectivity (keeping in touch with people)
     - Permanence of historical information
-    
+
 Discuss whether availability of data has had a positive or negative impact on each aspect of society and, if negative, how these consequences can be minimized.
